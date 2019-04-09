@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "IeDigitalWebFormTest", "IeDigitalWebFormTest\", "{EF5AE247-3322-4E9E-8ACE-25A6D0665CD6}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_1141"
+		Debug.AspNetCompiler.PhysicalPath = "IeDigitalWebFormTest\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1141\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_1141"
+		Release.AspNetCompiler.PhysicalPath = "IeDigitalWebFormTest\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1141\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1141"
+		SlnRelativePath = "IeDigitalWebFormTest\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF5AE247-3322-4E9E-8ACE-25A6D0665CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF5AE247-3322-4E9E-8ACE-25A6D0665CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4312E4E7-F8BC-4599-A3F7-D2CDB0942638}
+	EndGlobalSection
+EndGlobal
