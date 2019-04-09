@@ -35,8 +35,6 @@ For the purposes of this exercise a valid email address is the following:
   
   •	contains one ‘@’ symbol
   
-  •	one or more ‘.’ symbols
-  
   •	must end in either ".com", ".org", or ".net" 
   
 
