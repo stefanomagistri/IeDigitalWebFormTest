@@ -53,7 +53,7 @@ For the purposes of this exercise a valid email address is the following:
 
 Part 2:
 
-  •	A form called SearchTwo.aspx (hint: duplicate SearchOne.aspx and rename the file)
+  •	A form called SearchTwo.aspx
   
-  •	change implementation of business logic (validation) to use ASP.NET validation controls. (hint: You may use regex for the email address)
+  •	change implementation of business logic (validation) to use ASP.NET validation controls.
   
